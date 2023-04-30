@@ -28,4 +28,4 @@ SetValues();
 **https://github.com/Un1R/FPSGunFrameworkOld**
 
 # Other Information
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+I'm free to contact by discord **Un1#7850** or email **contactrocore@gmail.com**
