@@ -12,7 +12,7 @@
 
 const Info = {}
 
-const SetValues = => {
+const SetValues = () => {
   Info.name = "Un1versality";
   Info.main_spec = "Web Developer";
   Info.all_spec_exeprience = "3 years";
