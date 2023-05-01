@@ -1,12 +1,16 @@
 # About
 
 > Web Designer, UX Designer & Web Developer
+> 
 > Professional Roblox Programmer
+> 
 > Roblox Game Security Specialist
+> 
 > Cybersecurity Junior
+> 
 > Discord Bot Developer
 
-
+Programmer with a girlfriend
 
 ```js
 
