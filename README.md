@@ -10,8 +10,6 @@
 > 
 > Discord Bot Developer
 
-Programmer with a girlfriend
-
 ```js
 
 const Info = {}
